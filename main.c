@@ -1,7 +1,7 @@
 /*
     Project: Quadratic Equation Solution.
-    Author:  O. Butuba.
-    Date:    Oct 26th, 2021.
+    Author:  JAPHET MAKORI
+    Date:    Oct 26th, 
     Compiler: GCC.
     Language: C99
     License:  MIT
